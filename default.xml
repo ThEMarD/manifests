@@ -293,6 +293,7 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lvwifi" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gts7lwifi" />
   <project name="TheMuppets/proprietary_vendor_samsung_m52xq" />
   <project name="TheMuppets/proprietary_vendor_samsung_r8q" />
   <project name="TheMuppets/proprietary_vendor_samsung_sm6150-common" />
